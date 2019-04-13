@@ -602,3 +602,15 @@ a {
 .header-navbar__item a:focus {
   color: #d66926;
 }
+
+.header-content {
+  position: relative;
+  z-index: 1;
+}
+
+.header-title {
+  text-align: center;
+  letter-spacing: 0.08em;
+  font-size: 3.75rem;
+  margin: 0 0 53px;
+}
