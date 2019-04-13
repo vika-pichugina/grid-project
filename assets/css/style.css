@@ -510,3 +510,14 @@ a {
   text-decoration: none;
   color: #ffffff;
 }
+
+.header {
+  min-height: 100vh;
+  padding: 100px 0;
+  color: #ffffff;
+  background-color: #2d3651;
+  background-size: cover;
+  background-position: 50% 50%;
+  display: grid;
+  align-content: center;
+}
